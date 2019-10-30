@@ -1,1 +1,1 @@
-# Youtube-Reddit-Server-Subscribers
+This program simulates a Youtube/Reddit server which recieves messages with format: length, topic, message and sends them to the subscribers. It also allowes people to unsubscribe or to subscribe to other topics.
